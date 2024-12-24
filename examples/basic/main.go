@@ -10,8 +10,8 @@ import (
 	"os/exec"
 
 	hclog "github.com/hashicorp/go-hclog"
-	"github.com/hashicorp/go-plugin"
-	"github.com/hashicorp/go-plugin/examples/basic/shared"
+	"github.com/lucky-finger/go-plugin"
+	"github.com/lucky-finger/go-plugin/examples/basic/shared"
 )
 
 func main() {

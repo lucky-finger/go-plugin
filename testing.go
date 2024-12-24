@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	hclog "github.com/hashicorp/go-hclog"
-	"github.com/hashicorp/go-plugin/internal/grpcmux"
+	"github.com/lucky-finger/go-plugin/internal/grpcmux"
 	"google.golang.org/grpc"
 )
 
